@@ -31,7 +31,7 @@ import (
 	"github.com/gofiber/adaptor/v2"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/session"
-	"github.com/gofiber/template/html"
+	"github.com/gofiber/template/html/v2"
 	"github.com/jfyne/live"
 )
 
